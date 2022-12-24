@@ -5,7 +5,7 @@ var isCovidCertificateEnabled = true; // COVID-сертификат
 // Общее
 var birthdate = "29.08.2004"; // Дата рождения
 var fullname = "Бондаренко Анна Сергіївна"; // ФИО
-var name = "Єлізавета"; // Имя
+var name = "Анна"; // Имя
 
 // Паспорт
 var passport_id = "007653951"; // Номер паспорта
